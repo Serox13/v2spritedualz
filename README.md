@@ -1,4 +1,4 @@
-# v2spritedualz CR TOUCH
+#SEROX13 - Ender 3v2 CR TOUCH/DUAL Z/Sprite Extruder
 Config files for klipper installs
 This is working bin config files for Ender 3 V2 Sprite extruder and dual z axis
 i have done a lot of testing to get these numbers [build plate size is of a pei sheet with no clips]

@@ -1,0 +1,22 @@
+websites to help you along the way
+
+KLipper Documentation
+https://www.klipper3d.org/
+
+MainSail Documentation
+https://docs.mainsail.xyz/
+
+Flow Rate Calculator
+https://tools.takuya.wtf/flow.html
+
+Extrude Rotation Distance
+https://www.service-uplink.de/esteps_cal/calculator.php
+
+The Best Klipper Macro Site! Saves me so much time and works
+https://config.gab-3d.com/generate
+
+KlipperScreen
+https://klipperscreen.readthedocs.io/en/latest/Android/
+
+Good SuperSlicer/PrusaSlicer profile
+https://github.com/AndrewEllis93/Ellis-PIF-Profile
